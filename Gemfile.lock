@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ipaddress (0.8.0)
+    parl (0.2.0)
+      thread (= 0.2.2)
+    slop (4.2.1)
+    thread (0.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ipaddress (= 0.8.0)
+  parl (= 0.2.0)
+  slop (= 4.2.1)
+  thread (= 0.2.2)
+
+BUNDLED WITH
+   1.10.6
