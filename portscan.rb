@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-
 require 'socket'
 require 'slop'
 require 'ipaddress'
